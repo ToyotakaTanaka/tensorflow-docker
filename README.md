@@ -1,9 +1,7 @@
 # tensorflow-docker
-<h1>jupyter notebook用のdockerボリュームを作成</h1>
+<h2>jupyter notebook用のdockerボリュームを作成</h2>
+<p>create-dockervolume-notebookdata.sh</p>
 
-create-dockervolume-notebookdata.sh
-
-<h1>tensorflowのコンテナを起動</h1>
-※ポート8888でjupyter notebook ポート6006でtensorbordが起動します。
-
-tensorflow-docker-start.sh
+<h2>tensorflowのコンテナを起動</h2>
+<p>※ポート8888でjupyter notebook ポート6006でtensorbordが起動します。</p>
+<p>tensorflow-docker-start.sh</p>
